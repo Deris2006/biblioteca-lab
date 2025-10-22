@@ -1,13 +1,17 @@
-# Biblioteca - Script de consola
+Resolución del laboratorio de Programación Estructurada
+Descripción del Proyecto
+Sistema de Gestión de Biblioteca Escolar desarrollado en JavaScript con Node.js.
 
-Este repositorio contiene un script de Node.js (`biblioteca.js`) que implementa un sistema de gestión de biblioteca escolar en consola (préstamos, devoluciones, historial, etc.).
+Diagrama de Flujo General
 
-Cómo ejecutar:
-
-```powershell
-node .\biblioteca.js
-```
-
-Notas:
-- Los datos están en memoria (arreglos hardcoded). Puedes añadir persistencia con JSON o una base de datos.
-- Corregí errores de sintaxis y template literals para que el script sea ejecutable bajo Node.js.
+Funcionalidades del Sistema
+Gestión de estudiantes
+Catálogo de libros
+Sistema de préstamos
+Control de devoluciones
+Cálculo automático de multas
+Historial de transacciones
+Tecnologías Utilizadas
+JavaScript
+Node.js
+Módulo readline para interfaz CLI
