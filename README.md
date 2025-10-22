@@ -3,7 +3,8 @@ Descripción del Proyecto
 Sistema de Gestión de Biblioteca Escolar desarrollado en JavaScript con Node.js.
 
 Diagrama de Flujo General
-<img width="1336" height="673" alt="digra" src="https://github.com/user-attachments/assets/ed1ca15d-0d5e-4f3b-bb64-254ecb29a469" />
+<img width="9302" height="6037" alt="Untitled diagram-2025-10-17-210506" src="https://github.com/user-attachments/assets/5e2b316a-0b55-4083-ac80-5277a18bffa2" />
+
 
 Funcionalidades del Sistema
 Gestión de estudiantes
