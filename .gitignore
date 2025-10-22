@@ -1,0 +1,13 @@
+# Node modules (none for this repo, but standard to ignore)
+node_modules/
+
+# Logs
+npm-debug.log*
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
